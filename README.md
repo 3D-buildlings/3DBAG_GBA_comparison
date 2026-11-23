@@ -354,7 +354,7 @@ Data: 3DBAG `v2025.09.03` (pinned) + GBA WFS fetched 2026-11-16.
 | item | value |
 |---|---|
 | 3DBAG buildings | 473,690 |
-| GBA buildings | 512,325 |
+| GBA buildings | 512,327 |
 | matched 3DBAG buildings | 471,840 |
 | false negatives | 1,850 |
 | false positives | 39,639 |
